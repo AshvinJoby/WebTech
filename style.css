@@ -51,7 +51,7 @@ nav .Screenshot img {
      width: 110px;
 }
 nav .links a{
-    color: var(--bg);
+    color: white;
     font-size: 1.2rem;
     margin-right:1.8rem;
     text-transform: 0.1re;

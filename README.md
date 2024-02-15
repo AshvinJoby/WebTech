@@ -1,1 +1,1 @@
-# WebTech
+The project is centerd around a coffee restaurant, along with details of the staff and a blog about coffee. We will be transparent with our coffee making process, displaying a video on our website. We will also havea menu with all of the snacks we can have along with coffee.
